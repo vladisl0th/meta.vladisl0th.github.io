@@ -1,0 +1,4 @@
+baseURL = 'https://vladisl0th.github.io/'
+languageCode = 'en-gb'
+title = 'My Blog'
+theme = 'poison'
