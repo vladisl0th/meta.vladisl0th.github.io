@@ -21,8 +21,8 @@ pluralizelisttitles = false
         # Limit:        If the files should be listed, how many should be shown.
 
     menu = [
-        {Name = "about/", URL = "/about/", HasChildren = false},
-        {Name = "blog/", URL = "/blog/", Pre = "", HasChildren = true, Limit = 5},
+        {Name = "about/", URL = "about/", HasChildren = false},
+        {Name = "blog/", URL = "blog/", Pre = "", HasChildren = true, Limit = 5},
     ]
     # Ideas:
     # 
@@ -49,8 +49,8 @@ pluralizelisttitles = false
 
     # NOTE: If you don't want to use RSS, comment or delete the following lines
     # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml
-    # rss_icon = true
-    # rss_section = "blog"
+    rss_icon = true
+    rss_section = "blog"
 
     # Hex colors for your sidebar.
     moon_sun_background_color ="#303133"   # default is #515151
@@ -83,7 +83,7 @@ pluralizelisttitles = false
     code_block_background_color_dark = "#272822"    # default is #272822
     content_bg_color_dark = "#121212"               # default is #121212
     date_color_dark = "#9A9A9A"                     # default is #9A9A9A
-    link_color_dark = "#268BD2"                     # default is #268BD2
+    link_color_dark = "#5FFF87"                     # default is #268BD2
     list_color_dark = "#9D9D9D"                     # default is #9D9D9D
     post_title_color_dark = "#DBE2E9"               # default is #DBE2E9
     table_border_color_dark = "#515151"             # default is #515151
