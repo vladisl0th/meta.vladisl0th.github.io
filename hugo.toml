@@ -4,7 +4,7 @@ title = 'vladisl0th'
 theme = 'poison'
 pluralizelisttitles = false
 [params]
-    brand = "Vlad's"                      # name of your site - appears in the sidebar
+    brand = "V"                      
     # remote_brand_image = '' # path to a remote file
     # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
     description = "thoughts." 
@@ -43,6 +43,7 @@ pluralizelisttitles = false
     # mastodon_url = "https://mastodon.social"
     # matrix_url = "https://matrix.org"
     # telegram_url = "https://telegram.org"
+    # hackthebox_url = ""
     tryhackme_url = "https://tryhackme.com/p/vladisl0th"
     codewars_url = "https://www.codewars.com/users/vladisl0th"
     # xmpp_url = "https://xmpp.org"
